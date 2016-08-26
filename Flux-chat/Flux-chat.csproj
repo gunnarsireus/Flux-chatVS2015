@@ -52,6 +52,18 @@
     <Content Include="scripts\jquery.validate.unobtrusive.js" />
     <Content Include="scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="scripts\modernizr-2.6.2.js" />
+    <Content Include="srcold\assets\apple-touch-icon-precomposed.png" />
+    <Content Include="srcold\assets\browserconfig.xml" />
+    <Content Include="srcold\assets\crossdomain.xml" />
+    <Content Include="srcold\assets\favicon.ico" />
+    <Content Include="srcold\assets\humans.txt" />
+    <Content Include="srcold\assets\robots.txt" />
+    <Content Include="srcold\assets\tile-wide.png" />
+    <Content Include="srcold\assets\tile.png" />
+    <Content Include="srcold\images\logo-small%402x.png" />
+    <Content Include="srcold\images\logo-small.png" />
+    <Content Include="srcold\pages\404.html" />
+    <Content Include="srcold\pages\index.html" />
     <Content Include="src\App.jsx" />
     <Content Include="src\assets\apple-touch-icon-precomposed.png" />
     <Content Include="src\assets\apple-touch-icon-precomposed.png" />
@@ -214,6 +226,20 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <Content Include="scripts\jquery-1.10.2.min.map" />
+    <Content Include="srcold\App.jsx" />
+    <Content Include="srcold\components\Navbar.jsx" />
+    <Content Include="srcold\components\NavbarSpec.jsx" />
+    <Content Include="srcold\layouts\Default.jsx" />
+    <Content Include="srcold\pages\Home.jsx" />
+    <Content Include="srcold\pages\Privacy.jsx" />
+    <Content Include="srcold\styles\.csscomb.json" />
+    <Content Include="srcold\styles\.csslintrc" />
+    <Content Include="srcold\styles\bootstrap.less" />
+    <Content Include="srcold\styles\jumbotron.less" />
+    <Content Include="srcold\styles\mixins.less" />
+    <Content Include="srcold\styles\navbar.less" />
+    <Content Include="srcold\styles\utilities.less" />
+    <Content Include="srcold\styles\variables.less" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
